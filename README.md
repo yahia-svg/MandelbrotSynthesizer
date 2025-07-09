@@ -1,7 +1,7 @@
 # Mandlebrot Synthesizer
 
 ## Screenshots
-![Mandelbrot Synthesizer Screenshot](https://github.com/yahia-svg/terminalcraft/blob/main/submissions/MandelbrotSynthesizer/Screenshot%202025-06-22%20084723.png?raw=true)
+![Mandelbrot Synthesizer Screenshot](https://github.com/yahia-svg/MandelbrotSynthesizer/blob/main/image.png?raw=true)
 
 
 ## Description
