@@ -12,7 +12,3 @@ This project generates sounds from multiple fractals, including: mandelbrot, bur
 
 you can install this on any device by going to the directory of the file "mandelbrotsynthesizer" and running the command 
 python mandelbrotsynthesizer.py
-
-## controls
-
-Just use the enter key to save the sound (sounds are named after the point that you clicked to make them)
